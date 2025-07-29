@@ -1,0 +1,16 @@
+../Core/Src/motor.c:19:9:calculateCRC	24	static
+../Core/Src/motor.c:35:6:TMC2226_WriteRegister	16	static
+../Core/Src/motor.c:127:10:TMC2226_ReadRegister	32	static
+../Core/Src/motor.c:179:6:TMC2226_OTP	16	static
+../Core/Src/motor.c:191:6:TMC2226_Init	24	static
+../Core/Src/motor.c:245:6:TMC2226_SetCurrent	24	static
+../Core/Src/motor.c:258:6:setupMotor	8	static
+../Core/Src/motor.c:299:6:setMicrostepping	16	static
+../Core/Src/motor.c:318:6:enableStealthMode	8	static
+../Core/Src/motor.c:325:6:enablespreadcyclemode	8	static
+../Core/Src/motor.c:333:6:rotateMotor	24	static
+../Core/Src/motor.c:360:6:homePosition	16	static
+../Core/Src/motor.c:383:6:lampOn	8	static
+../Core/Src/motor.c:396:6:lampOff	8	static
+../Core/Src/motor.c:411:10:readLampCurrent	4	static
+../Core/Src/motor.c:417:6:microsecond_delay	16	static

@@ -1,0 +1,7 @@
+../Core/Src/spectrum.c:17:19:enableBuffers	8	static
+../Core/Src/spectrum.c:31:19:checkEOS	16	static
+../Core/Src/spectrum.c:40:6:setupSensor	8	static
+../Core/Src/spectrum.c:67:6:initializeADC1115	8	static
+../Core/Src/spectrum.c:78:10:readADC1115	16	static
+../Core/Src/spectrum.c:92:6:acquireSpectra	40	static
+../Core/Src/spectrum.c:167:6:triggerAndReceiveSpectra	24	static

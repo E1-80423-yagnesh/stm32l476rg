@@ -1,0 +1,13 @@
+../Core/Src/ADS1015_ADS1115.c:12:13:writeRegister	1
+../Core/Src/ADS1015_ADS1115.c:19:17:readRegister	1
+../Core/Src/ADS1015_ADS1115.c:28:13:ADSbegin	1
+../Core/Src/ADS1015_ADS1115.c:38:6:ADS1015	1
+../Core/Src/ADS1015_ADS1115.c:49:6:ADS1115	1
+../Core/Src/ADS1015_ADS1115.c:73:6:ADSsetGain	1
+../Core/Src/ADS1015_ADS1115.c:79:11:ADSgetGain	1
+../Core/Src/ADS1015_ADS1115.c:89:10:ADSstartContinuous_SingleEnded	6
+../Core/Src/ADS1015_ADS1115.c:136:10:ADSreadADC_SingleEnded	6
+../Core/Src/ADS1015_ADS1115.c:193:9:ADSreadADC_Differential_0_1	3
+../Core/Src/ADS1015_ADS1115.c:244:9:ADSreadADC_Differential_2_3	3
+../Core/Src/ADS1015_ADS1115.c:295:6:ADSstartComparator_SingleEnded	5
+../Core/Src/ADS1015_ADS1115.c:339:9:ADSgetLastConversionResults	3

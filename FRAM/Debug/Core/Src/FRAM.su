@@ -1,0 +1,4 @@
+../Core/Src/FRAM.c:6:6:FM24CL16B_Write_Data	32	static
+../Core/Src/FRAM.c:16:9:FM24CL16B_Read_Data	40	static
+../Core/Src/FRAM.c:25:6:Parameter_Write	40	static
+../Core/Src/FRAM.c:62:7:Parameter_Read	32	static
